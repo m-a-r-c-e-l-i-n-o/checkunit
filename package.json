@@ -1,0 +1,26 @@
+{
+  "name": "checkunit",
+  "version": "1.0.0",
+  "description": "The \"checkunit\" module runs unit tests on an interval and prompts the user to revert to the last checkpoint if any specs fail.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-a-r-c-e-l-i-n-o/checkunit.git"
+  },
+  "keywords": [
+    "auto",
+    "save",
+    "unit",
+    "test",
+    "git"
+  ],
+  "author": "m-a-r-c-e-l-i-n-o <me@marceli.no>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-a-r-c-e-l-i-n-o/checkunit/issues"
+  },
+  "homepage": "https://github.com/m-a-r-c-e-l-i-n-o/checkunit#readme"
+}
